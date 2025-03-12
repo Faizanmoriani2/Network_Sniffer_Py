@@ -1,0 +1,23 @@
+Ether / IP / TCP 20.192.44.68:https > 192.168.1.9:52295 PA / Raw
+Ether / IP / TCP 192.168.1.9:52295 > 20.192.44.68:https A
+Ether / IP / TCP 20.192.44.68:https > 192.168.1.9:52295 PA / Raw
+Ether / IP / TCP 192.168.1.9:52295 > 20.192.44.68:https A
+Ether / IP / TCP 192.168.1.9:52469 > 146.148.16.38:https A / Raw
+Ether / IP / TCP 146.148.16.38:https > 192.168.1.9:52469 A
+Ether / IP / TCP 192.168.1.9:52402 > 140.82.113.26:https A / Raw
+Ether / IP / TCP 140.82.113.26:https > 192.168.1.9:52402 A
+Ether / IP / TCP 192.168.1.9:52465 > 64.233.184.188:5228 A / Raw
+Ether / IP / TCP 64.233.184.188:5228 > 192.168.1.9:52465 A
+Ether / IP / TCP 192.168.1.9:52295 > 20.192.44.68:https PA / Raw
+Ether / IP / TCP 20.192.44.68:https > 192.168.1.9:52295 A / Padding
+Ether / IP / TCP 192.168.1.9:52467 > 172.64.155.209:https A / Raw
+Ether / IP / TCP 192.168.1.9:52561 > 20.205.253.130:https FA
+Ether / IP / TCP 192.168.1.9:52562 > 20.205.253.130:https FA
+Ether / IP / TCP 20.205.253.130:https > 192.168.1.9:52562 FA
+Ether / IP / TCP 20.205.253.130:https > 192.168.1.9:52562 A
+Ether / IP / TCP 192.168.1.9:52562 > 20.205.253.130:https A
+Ether / IP / TCP 192.168.1.9:52562 > 20.205.253.130:https A
+Ether / IP / TCP 20.205.253.130:https > 192.168.1.9:52561 A
+Ether / IP / TCP 20.205.253.130:https > 192.168.1.9:52561 FA
+Ether / IP / TCP 192.168.1.9:52561 > 20.205.253.130:https A
+Ether / IP / TCP 192.168.1.9:52295 > 20.192.44.68:https PA / Raw
